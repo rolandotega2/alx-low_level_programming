@@ -1,3 +1,5 @@
+#include "studio.h"
+
 /**
   * main - Entry point
   *
